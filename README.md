@@ -17,7 +17,7 @@
 <br><br>
 
 ## 2. Project Members
-|Team Leader|Developer|Developer|Developer|
+|Team Leader|Learner|Learner|Learner|
 |:--:|:--:|:--:|:--:|
 |박인희<sub>Park Inhee</sub>|김가빈<sub>Kim Garbin</sub>|황재연<sub>Hwang Jaeyeon</sub>|최태성<sub>Choi Taesung</sub>|
 |![pngtree-recycle-garbage-bag-png-image_6491460](https://github.com/user-attachments/assets/ad653ad3-e628-42f2-92b1-85f7daaff750)|![KakaoTalk_20240927_132108898](https://github.com/user-attachments/assets/a33c38db-eb1c-467d-bd5f-7c72654885f5)|![다운로드](https://github.com/user-attachments/assets/f8d4e10d-f847-4170-a6fc-af61cf8fbe99)|![다운로드](https://github.com/user-attachments/assets/f8d4e10d-f847-4170-a6fc-af61cf8fbe99)|
